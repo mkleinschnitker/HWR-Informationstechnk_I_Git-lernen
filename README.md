@@ -2,3 +2,6 @@
 Repository um GIT zu erlernen
 
 ## 1. Abschnitt
+
+## 2. Abschnitt
+
